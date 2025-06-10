@@ -1,29 +1,28 @@
-# 📜 اقتباس اليوم
+# 📜 Quote of the Day
 
-تطبيق ويب بسيط وأنيق يعرض اقتباسًا عشوائيًا عند الضغط على زر. مناسب لجرعة يومية من الإلهام!
+A simple and elegant web application that displays a random quote when you click a button. Perfect for a daily dose of inspiration!
 
-## 🚀 المميزات
+## 🚀 Features
 
-- عرض اقتباس عشوائي عند الضغط على الزر  
-- تصميم بسيط ومتجاوب مع جميع الأجهزة  
-- مبني باستخدام **HTML**، **CSS**، و**JavaScript**
+- Displays a random quote with each button click  
+- Clean and responsive design  
+- Built using **HTML**, **CSS**, and **Vanilla JavaScript**
 
-## 📷 معاينة
+## 📷 Preview
 
-![لقطة شاشة للمشروع](image/Screenshot.png)
+![Project Screenshot](https://github.com/shehab-A-hassan/Quote-of-the-Day/blob/master/image/Screenshot%202025-06-10%20203929.png)
 
-## 🛠️ التقنيات المستخدمة
+## 🛠️ Technologies Used
 
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)
 
-## 🔗 المعاينة المباشرة
+## 🔗 Live Preview
 
-[اضغط هنا لمشاهدة المشروع مباشرة](https://shehab-a-hassan.github.io/Quote-of-the-Day/)
+[Click here to view the live project](https://shehab-a-hassan.github.io/Quote-of-the-Day/)
 
-## 📧 تواصل
+## 📧 Contact
 
-لأي استفسارات أو تواصل، يُرجى المراسلة على البريد التالي:  
+For any inquiries or communication, feel free to reach out at:  
 **shehabali241@gmail.com**
-
